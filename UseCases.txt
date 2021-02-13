@@ -1,0 +1,41 @@
+STEP 1 : Download Project Source Code in github
+
+STEP 2 : Open SQL Stored Procedure File
+
+STEP 3 : Open SQL table script file
+
+STEP 4 : Create Tables and Stored Procdure using script files
+
+STEP 5 : Import SQL Stored Procedure using file
+
+
+ 
+STEP 6 : Open Visual Studio –> File –> Open –> Website
+
+
+STEP 7 : Run the Project
+
+
+
+Use case:
+
+Librarian --> Functionalities
+      
+
+
+       i)  ADD Publication
+           ADD Book
+           ADD Branch
+           ADD Student
+           Search Book
+           Issue Book
+           Return Book
+           Penalty Report
+           Change password
+
+Student : 
+           Search Book
+           Issue/Return Book Report (Borrow Book/Return Book)
+           Panalty Report
+           Change password
+
